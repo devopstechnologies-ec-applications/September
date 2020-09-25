@@ -1,3 +1,0 @@
-#!/bin/bash
-Shell File
-I am editing...
