@@ -1,1 +1,1 @@
-Tryinh again to psuh to remote repository
+Tryinh again to push to remote repository
